@@ -20,7 +20,9 @@ This project predicts whether a loan application will be approved based on appli
 - Models were checked against overfitting/underfitting.
 ---
 ## Conclusion
+
 XGBoost proved to be the most effective model for predicting loan approvals, both with imbalanced and balanced datasets.
+
 ---
 ## Tech Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
